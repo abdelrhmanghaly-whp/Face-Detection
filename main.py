@@ -68,7 +68,7 @@ if not known:
     logging.error("No faces found in the provided images. Exiting.")
     exit()
 
-logging.info("Encoding Completed!")
+logging.info("Completed")
 
 cap = cv2.VideoCapture(0)
 if not cap.isOpened():
