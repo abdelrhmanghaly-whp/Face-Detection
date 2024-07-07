@@ -19,7 +19,7 @@ pip install face_recognition
 * Place The images in the imgs directory
 * Run the script using:
   ```bash
-  python face_detection.py
+  python main.py
   ```
  ## Code Explaination
   ### Libraries Used
